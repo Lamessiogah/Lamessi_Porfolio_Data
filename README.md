@@ -76,16 +76,14 @@ $$
 
 ## 📐 Modèle mathématique (Système de Lorenz)
 
-$$
-\frac{dx}{dt} = \sigma (y - x)
-$$
+## 📐 Modèle mathématique (Système de Lorenz)
 
 $$
-\frac{dy}{dt} = x(\rho - z) - y
-$$
-
-$$
-\frac{dz}{dt} = xy - \beta z
+\begin{aligned}
+\frac{dx}{dt} &= \sigma (y - x) \\
+\frac{dy}{dt} &= x(\rho - z) - y \\
+\frac{dz}{dt} &= xy - \beta z
+\end{aligned}
 $$
 
 - [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorentz.png)
