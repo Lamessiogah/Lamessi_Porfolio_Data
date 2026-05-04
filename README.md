@@ -53,9 +53,9 @@ Le projet a été réalisé pour une entreprise en particulier
 ---
 
 🔬 Projet : Simulation du système de Lorenz
-Implémentation de la méthode Runge-Kutta 4
-Simulation d’un système chaotique
-Visualisation 3D de l’attracteur
+- Implémentation de la méthode Runge-Kutta 4
+- Simulation d’un système chaotique
+- Visualisation 3D de l’attracteur
 
 ## 📫 Contact
 
