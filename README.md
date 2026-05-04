@@ -86,7 +86,7 @@ $$
 
 - [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorentz.png)
 
-## 📫 Contact
+## Contact
 
 - 🔗 LinkedIn : [Mon profil](https://www.linkedin.com/in/lamessi-jer%C3%B4me-ogah-b14186329/)
 - 📧 Email : lamessijerome@gmail.com
