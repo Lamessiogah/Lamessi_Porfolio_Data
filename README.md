@@ -47,6 +47,7 @@ Application mobile de gestion du temps de travail avec collecte et analyse de do
 **Technologies :**
 Flutter · Firebase · Firestore · Géolocalisation
 
+Le projet a été réalisé pour une entreprise en particulier
 🔗 [Voir le projet](https://promoting-cdfcf.web.app)
 
 ---
