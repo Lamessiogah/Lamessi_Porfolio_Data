@@ -54,7 +54,34 @@ Le projet a été réalisé pour une entreprise en particulier
 
 🔬 Projet : Simulation du système de Lorenz
 - Implémentation de la méthode Runge-Kutta 4
+
+## ⚙️ Méthode numérique (RK4)
+
+$$
+y_{n+1} = y_n + \frac{h}{6}(k_1 + 2k_2 + 2k_3 + k_4)
+$$
+
+avec :
+
+$$
+\begin{aligned}
+k_1 &= f(t_n, y_n) \\
+k_2 &= f\left(t_n + \frac{h}{2}, y_n + \frac{h}{2}k_1\right) \\
+k_3 &= f\left(t_n + \frac{h}{2}, y_n + \frac{h}{2}k_2\right) \\
+k_4 &= f(t_n + h, y_n + h k_3)
+\end{aligned}
+$$
+  
 - Simulation d’un système chaotique
+  ## 📐 Modèle mathématique (Système de Lorenz)
+
+$$
+\begin{cases}
+\frac{dx}{dt} = \sigma (y - x) \\
+\frac{dy}{dt} = x(\rho - z) - y \\
+\frac{dz}{dt} = xy - \beta z
+\end{cases}
+$$
 - [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorentz.png)
 
 ## 📫 Contact
