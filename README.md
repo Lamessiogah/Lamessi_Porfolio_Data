@@ -73,15 +73,21 @@ k_4 &= f(t_n + h, y_n + h k_3)
 $$
   
 - Simulation d’un système chaotique
-  ## 📐 Modèle mathématique (Système de Lorenz)
+
+## 📐 Modèle mathématique (Système de Lorenz)
 
 $$
-\begin{cases}
-\frac{dx}{dt} = \sigma (y - x) \\
-\frac{dy}{dt} = x(\rho - z) - y \\
-\frac{dz}{dt} = xy - \beta z
-\end{cases}
+\frac{dx}{dt} = \sigma (y - x)
 $$
+
+$$
+\frac{dy}{dt} = x(\rho - z) - y
+$$
+
+$$
+\frac{dz}{dt} = xy - \beta z
+$$
+
 - [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorentz.png)
 
 ## 📫 Contact
