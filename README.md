@@ -76,8 +76,6 @@ $$
 
 ## 📐 Modèle mathématique (Système de Lorenz)
 
-## 📐 Modèle mathématique (Système de Lorenz)
-
 $$
 \begin{aligned}
 \frac{dx}{dt} &= \sigma (y - x) \\
