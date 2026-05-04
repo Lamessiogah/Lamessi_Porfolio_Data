@@ -52,6 +52,11 @@ Le projet a été réalisé pour une entreprise en particulier
 
 ---
 
+🔬 Projet : Simulation du système de Lorenz
+Implémentation de la méthode Runge-Kutta 4
+Simulation d’un système chaotique
+Visualisation 3D de l’attracteur
+
 ## 📫 Contact
 
 - 🔗 LinkedIn : [Mon profil](https://www.linkedin.com/in/lamessi-jer%C3%B4me-ogah-b14186329/)
