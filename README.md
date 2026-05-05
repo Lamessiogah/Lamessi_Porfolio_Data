@@ -84,7 +84,7 @@ $$
 \end{aligned}
 $$
 
-- [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorentz.png)
+- [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorenz.png)
 
 ## Contact
 
