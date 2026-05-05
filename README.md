@@ -1,4 +1,4 @@
-# 👋 Lamessi Jérôme — Data Analyst / Data Scientist
+# 👋 Lamessi Jérôme OGAH— Data Analyst / Data Scientist
 
 🎓 Étudiant en Mathématiques – Master Modélisation de Données (2026)  
 📊 Spécialisé en analyse de données, statistiques et visualisation  
