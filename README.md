@@ -1,33 +1,36 @@
-# 👋 Lamessi Jérôme OGAH— Data Analyst / Data Scientist
+# 👋 Lamessi Jérôme OGAH — Quantitative Analyst / Quant
 
-🎓 Étudiant en Mathématiques – Master Modélisation de Données (2026)  
-📊 Spécialisé en analyse de données, statistiques et visualisation  
-🚀 Recherche d’une alternance en Data (Data Analyst / Data Scientist)
+🎓 Étudiant en Mathématiques – Master Mathématiques Appliquées à l'Ingénierie Financière (MAIF)
+📊 Spécialisé en analyse quantitative
+🚀 Recherche d’un stage en finance quantitative à partir d’avril 2027
 
 ---
 
 ## 📈 Objectif
 
-Intégrer une alternance en Data afin de mettre en pratique mes compétences en analyse, traitement et visualisation de données, et contribuer à la prise de décision basée sur les données.
+Intégrer un stage en finance quantitative afin de mettre en pratique mes compétences en mathématiques, probabilités, statistiques et programmation, et contribuer à la modélisation et à l’analyse de problématiques financières.
 
 ---
 
 ## 🛠️ Compétences
 
 ### 📊 Data & Analyse
-- Python (Pandas, NumPy)
-- SQL (requêtes, jointures, agrégation)
-- Power BI (dashboards, visualisation)
-- Statistiques (analyse descriptive, modélisation)
+
+* Python (Pandas, NumPy)
+* SQL (requêtes, jointures, agrégation)
+* Power BI (dashboards, visualisation)
+* Statistiques (analyse descriptive, modélisation)
 
 ### 💻 Programmation
-- C
-- R
-- Octave
+
+* C
+* R
+* Octave
 
 ### 📦 Outils
-- Git / GitHub
-- Firebase (Firestore, Authentication, Storage)
+
+* Git / GitHub
+* Firebase (Firestore, Authentication, Storage)
 
 ---
 
@@ -38,11 +41,12 @@ Intégrer une alternance en Data afin de mettre en pratique mes compétences en 
 Application mobile de gestion du temps de travail avec collecte et analyse de données.
 
 **Fonctionnalités :**
-- Collecte des données : horaires, localisation GPS, photos
-- Calcul automatique des heures travaillées (gestion des pauses multiples)
-- Stockage et structuration des données (Firestore)
-- Analyse mensuelle des performances
-- Tableau de reporting des heures
+
+* Collecte des données : horaires, localisation GPS, photos
+* Calcul automatique des heures travaillées (gestion des pauses multiples)
+* Stockage et structuration des données (Firestore)
+* Analyse mensuelle des performances
+* Tableau de reporting des heures
 
 **Technologies :**
 Flutter · Firebase · Firestore · Géolocalisation
@@ -53,7 +57,8 @@ Le projet a été réalisé pour une entreprise en particulier
 ---
 
 🔬 Projet : Simulation du système de Lorenz
-- Implémentation de la méthode Runge-Kutta 4
+
+* Implémentation de la méthode Runge-Kutta 4
 
 ## ⚙️ Méthode numérique (RK4)
 
@@ -71,8 +76,8 @@ k_3 &= f\left(t_n + \frac{h}{2}, y_n + \frac{h}{2}k_2\right) \\
 k_4 &= f(t_n + h, y_n + h k_3)
 \end{aligned}
 $$
-  
-- Simulation d’un système chaotique
+
+* Simulation d’un système chaotique
 
 ## 📐 Modèle mathématique (Système de Lorenz)
 
@@ -84,9 +89,9 @@ $$
 \end{aligned}
 $$
 
-- [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorenz.png)
+* [Visualisation 3D de l’attracteur](https://github.com/Lamessiogah/Lamessi_Porfolio_Data/blob/main/Lorenz.png)
 
 ## Contact
 
-- 🔗 LinkedIn : [Mon profil](https://www.linkedin.com/in/lamessi-jer%C3%B4me-ogah-b14186329/)
-- 📧 Email : lamessijerome@gmail.com
+* 🔗 LinkedIn : [Mon profil](https://www.linkedin.com/in/lamessi-jérôme-ogah-b14186329/)
+* 📧 Email : [lamessijerome@gmail.com](mailto:lamessijerome@gmail.com)
